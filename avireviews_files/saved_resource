@@ -1,32 +1,0 @@
-
-var ftGUID_3379548="3955554D8D3802";
-var ftConfID_3379548="11305440";
-var ftParams_3379548="ftx=&fty=&ftadz=&ftscw=&ft_custom=4053494__20526475__4104512__106828447&ftOBA=1&ft_ifb=1&ft_domain=www.imdb.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4154756%2Freviews%3Fref_%3Dtt_ql_3&ft_keyword=222868848&ft_section=01274030203239325321477745196059294094%7C%7C222868848&cachebuster=803320.2602470777";
-var ftKeyword_3379548="";
-var ftCustom_3379548="4053494__20526475__4104512__106828447";
-var ftSection_3379548="01274030203239325321477745196059294094||222868848";
-var ftSegment_3379548="";
-var ftSegmentList_3379548=[];
-var ftRuleMatch_3379548="00001000";
-var ftTimestamp_3379548="1540897846";
-var ftGeoC2_3379548="us";
-var ftGeoState_3379548="ma";
-var ftGeoCity_3379548="boston";
-var ftISP_3379548="boston university";
-var ftSpeed_3379548="broadband";
-var ftDMA_3379548="506";
-var ftLong_3379548="-71.1016";
-var ftLat_3379548="42.3449";
-var ftPostal_3379548="02215";
-var ftTimeZone_3379548="-400";
-var ftMobileCarrier_3379548="";
-var ftImp3379548 = {};
-ftImp3379548.privacy = "x";
-ftImp3379548.guidAge = "0";
-ftImp3379548.impID = "823B1C72-B174-4D73-E4BB-99DD151FAEE7";
-
-ftImp3379548.ft_tpplid = "";
-ftImp3379548.ft_c = {};
-
-document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/337/3379548/2406942/js/j-3379548-2406942.js" id="ftscript_m3379548" name="ftscript_m3379548"></scr'+'ipt>');
-                    
